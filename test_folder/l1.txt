@@ -1,6 +1,0 @@
-Text from the file at level 1
-
-Some reandom word to search:
-big cat
-brown dog
-the quick brown fox jumped over the lazy dog.
