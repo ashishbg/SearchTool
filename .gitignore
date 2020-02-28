@@ -1,4 +1,6 @@
-bin
+/bin
 
-test_folder
-test_folder_2
+/test_folder
+/test_folder_2
+
+search_result.txt
